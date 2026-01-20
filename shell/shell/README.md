@@ -4,7 +4,8 @@
 
 ## Group Members
 - Tyler Tran: ttt22b@fsu.edu
-- **Jane Smith**: js19@fsu.edu
+- Vincent Zheng: vz22a@fsu.edu
+
 - **Alex Brown**: ab19@fsu.edu
 ## Division of Labor
 
