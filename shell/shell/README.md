@@ -3,7 +3,7 @@
 [Description]
 
 ## Group Members
-- **John Doe**: jd19@fsu.edu
+- Tyler Tran: ttt22b@fsu.edu
 - **Jane Smith**: js19@fsu.edu
 - **Alex Brown**: ab19@fsu.edu
 ## Division of Labor
